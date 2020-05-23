@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "MustacheVisitor",
+	"category" : "Mustaside-Core-Mustaside-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"canvas",
+		"context"
+	],
+	"name" : "MsMustasideWriteVisitor",
+	"type" : "normal"
+}

@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Mustaside-Core-Mustaside-Core",
+	"classinstvars" : [
+		"default"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"partialsDict"
+	],
+	"name" : "MsMustasidePartials",
+	"type" : "normal"
+}

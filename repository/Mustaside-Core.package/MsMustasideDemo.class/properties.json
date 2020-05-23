@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "WAComponent",
+	"category" : "Mustaside-Core-Mustaside-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"counter",
+		"showOrHideAddress"
+	],
+	"name" : "MsMustasideDemo",
+	"type" : "normal"
+}

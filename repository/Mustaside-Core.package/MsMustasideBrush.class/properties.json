@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "WABrush",
+	"category" : "Mustaside-Core-Mustaside-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"template",
+		"values",
+		"partials"
+	],
+	"name" : "MsMustasideBrush",
+	"type" : "normal"
+}

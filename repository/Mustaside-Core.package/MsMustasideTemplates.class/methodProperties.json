@@ -1,0 +1,17 @@
+{
+	"instance" : {
+		"templatesDict" : "MasashiUmezawa 5/21/2015 22:28",
+		"register:named:" : "MasashiUmezawa 5/21/2015 22:34",
+		"at:" : "MasashiUmezawa 5/21/2015 22:40",
+		"at:ifAbsent:" : "MasashiUmezawa 5/21/2015 22:41",
+		"initialize" : "MasashiUmezawa 5/21/2015 22:29",
+		"registerFrom:named:" : "MasashiUmezawa 5/21/2015 22:34",
+		"unregisteNamed:" : "MasashiUmezawa 5/21/2015 22:35",
+		"templatesDict:" : "MasashiUmezawa 5/21/2015 22:28",
+		"names" : "MasashiUmezawa 5/21/2015 22:41"
+	},
+	"class" : {
+		"initialize" : "MasashiUmezawa 5/21/2015 22:08",
+		"default" : "MasashiUmezawa 5/21/2015 22:07"
+	}
+}
