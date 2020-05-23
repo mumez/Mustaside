@@ -1,1 +1,2 @@
-(name 'BaselineOfMustaside-MasashiUmezawa.1' message 'Initial commit' id '9a878606-b362-0d00-8468-c1a909aab6dd' date '23 May 2020' time '11:09:05.386394 pm' author 'MasashiUmezawa' ancestors () stepChildren ())
+(name 'BaselineOfMustaside-MasashiUmezawa.1590243012' message 'Fixing BaselineOfMustaside' id '1a125014-b362-0d00-846a-b3e809aab6dd' date '23 May 2020' time '11:12:56.699394 pm' author 'MasashiUmezawa' ancestors ((name 'BaselineOfMustaside-CompatibleUserName.1590243011' message 'Migrating from http://smalltalkhub.com/#!/~MasashiUmezawa/Mustaside
+' id 'c93ac7a1-e27e-52b7-a450-b65b1e6cecbd' date '23 May 2020' time '11:10:11 pm' author 'CompatibleUserName' ancestors () stepChildren ())) stepChildren ())
