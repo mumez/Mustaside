@@ -6,7 +6,7 @@ baseline: spec
 		self seasideCore: spec.
 		self mustache: spec.
 		spec 
-			package: 'Mustaside-Core'with: [ spec requires: #('SeasideCore' 'Mustache')].
+			package: 'Mustaside-Core'with: [ spec requires: #('Seaside' 'Mustache')].
 		spec 
 			group: 'Core' with: #('Mustaside-Core' );
 			group: 'default' with: #('Core')].

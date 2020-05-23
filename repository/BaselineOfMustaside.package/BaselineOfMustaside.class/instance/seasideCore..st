@@ -1,7 +1,7 @@
 external projects
 seasideCore: spec
 	spec
-		baseline: 'Seaside'
+		baseline: 'SeasideCore'
 		with: [ spec
 				repository: 'github://SeasideSt/Seaside:master/repository';
 				loads: 'Core' ]
